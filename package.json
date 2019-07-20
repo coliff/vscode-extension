@@ -274,7 +274,7 @@
   },
   "dependencies": {
     "aurelia-binding": "^1.2.2",
-    "aurelia-cli": "^0.33.1",
+    "aurelia-cli": "^0.34.0",
     "aurelia-dependency-injection": "^1.4.1",
     "aurelia-templating-binding": "^1.4.0",
     "parse5": "^4.0.0",
